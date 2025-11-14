@@ -1,6 +1,6 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="9%p"
     android:keyHeight="70dp"
-    android:keyWidth="10%p"
     android:horizontalGap="5dp"
     android:verticalGap="10dp"
     >

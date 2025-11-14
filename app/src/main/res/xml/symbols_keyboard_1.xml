@@ -33,8 +33,6 @@
 
     <!-- Row 3 -->
     <Row>
-        <Key android:codes="-10" android:keyLabel="ABC" android:keyWidth="16%p"/>
-
         <Key android:codes="34" android:keyLabel="&#34;"/> <!-- double quote -->
         <Key android:codes="39" android:keyLabel="&#39;"/> <!-- single quote -->
         <Key android:codes="33" android:keyLabel="!"/>
@@ -47,7 +45,7 @@
 
     <!-- Row 4 -->
     <Row>
-        <Key android:codes="-12" android:keyLabel="➡" android:keyWidth="20%p"/>
+        <Key android:codes="-12" android:keyLabel="ABC" android:keyWidth="20%p"/>
         <Key android:codes="32" android:keyLabel="space" android:keyWidth="50%p"/>
         <Key android:codes="10" android:keyLabel="↵" android:keyWidth="20%p"/>
     </Row>

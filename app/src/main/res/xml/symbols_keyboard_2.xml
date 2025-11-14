@@ -23,18 +23,16 @@
         <Key android:codes="45" android:keyLabel="-"/>
         <Key android:codes="47" android:keyLabel="/"/>
         <Key android:codes="58" android:keyLabel=":"/>
-        <Key android:codes="59" android:keyLabel=";"/>
-        <Key android:codes="40" android:keyLabel="("/>
-        <Key android:codes="41" android:keyLabel=")"/>
-        <Key android:codes="36" android:keyLabel="$"/>
+        <Key android:codes="59" android:keyLabel="h"/>
+        <Key android:codes="40" android:keyLabel="e"/>
+        <Key android:codes="41" android:keyLabel="l"/>
+        <Key android:codes="36" android:keyLabel="p"/>
         <Key android:codes="38" android:keyLabel="&#38;"/> <!-- ampersand -->
         <Key android:codes="64" android:keyLabel="&#64;"/> <!-- at sign -->
     </Row>
 
     <!-- Row 3 -->
     <Row>
-        <Key android:codes="-10" android:keyLabel="ABC" android:keyWidth="16%p"/>
-
         <Key android:codes="34" android:keyLabel="&#34;"/> <!-- double quote -->
         <Key android:codes="39" android:keyLabel="&#39;"/> <!-- single quote -->
         <Key android:codes="33" android:keyLabel="!"/>
@@ -47,7 +45,7 @@
 
     <!-- Row 4 -->
     <Row>
-        <Key android:codes="-10" android:keyLabel="ABC" android:keyWidth="20%p"/>
+        <Key android:codes="-10" android:keyLabel="NXT" android:keyWidth="20%p"/>
         <Key android:codes="32" android:keyLabel="space" android:keyWidth="50%p"/>
         <Key android:codes="10" android:keyLabel="↵" android:keyWidth="20%p"/>
     </Row>
